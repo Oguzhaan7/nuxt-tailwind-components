@@ -2,6 +2,8 @@
 
 This list includes the components available in the [Oguzhaan7/nuxt-tailwind-components](https://github.com/Oguzhaan7/nuxt-tailwind-components) repository:
 
+![Alt Text]([https://example.com/image.png](https://imgur.com/a/Ngr8zHe) ",Components")
+
 - **Button**
 - **Modal**
 - **Card**
