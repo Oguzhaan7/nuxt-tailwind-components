@@ -1,75 +1,31 @@
-# Nuxt 3 Minimal Starter
+# Components Developed with Nuxt.js, Tailwind CSS, and TypeScript
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This list includes the components available in the [Oguzhaan7/nuxt-tailwind-components](https://github.com/Oguzhaan7/nuxt-tailwind-components) repository:
 
-## Setup
+- **Button**
+- **Modal**
+- **Card**
+- **Dropdown**
+- **Filterable Table**
+- **Navbar**
+- **Sidebar**
+- **Form Input**
+- **Pagination**
+- **Tooltip**
+- **Tabs**
+- **Badge**
+- **Breadcrumb**
+- **Dropdown Menu**
+- **List Group**
+- **Progress Bar**
+- **Spinner**
+- **Toast**
+- **Avatar**
+- **Divider**
+- **Empty State**
+- **Loading Indicator**
+- **Notification**
+- **Stepper**
+- **User Profile**
 
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+For more detailed information and usage examples, please review the source code and related documentation for each component.
