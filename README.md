@@ -1,6 +1,7 @@
 # Components Developed with Nuxt.js, Tailwind CSS, and TypeScript
 
 This list includes the components available in the [Oguzhaan7/nuxt-tailwind-components](https://github.com/Oguzhaan7/nuxt-tailwind-components) repository:
+
 ![alt text](https://i.imgur.com/S2AfBqB.png)
 
 - **Button**
